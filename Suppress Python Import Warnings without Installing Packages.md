@@ -1,4 +1,4 @@
-# If you are seeing missing import or module source warnings in VS Code / Pylance and want to suppress them without installing the missing packages, create a configuration file at the root of your project:
+If you are seeing missing import or module source warnings in VS Code / Pylance and want to suppress them without installing the missing packages, create a configuration file at the root of your project:
 
 **File path:** `./pyrightconfig.json`
 
